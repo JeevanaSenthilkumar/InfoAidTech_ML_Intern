@@ -6,6 +6,7 @@
 🚀 Infoaid Tech is more than just an organization; it's a nurturing ground for aspiring professionals. Throughout my internship, I was surrounded by experts who were not only willing to share their knowledge but also genuinely committed to helping me succeed. The company's culture of continuous learning and innovation was a catalyst for my personal and professional development.
 
 **Project 1: Iris Flower Classification**
+
 Dataset Loading 📈:
 I began by importing the Iris dataset using Scikit-learn. This dataset contains essential information about iris flowers.
 
@@ -31,6 +32,7 @@ Try It Yourself 🧐:
 Give it a try by inputting different values for sepal length, sepal width, petal length, and petal width. See the magic of machine learning at work as it predicts the iris species for you!
 
 **Project 2: Movie Recommendation Systems**
+
 Step 1: Data Loading 📊
 Start by loading the MovieLens dataset into your Python environment using Pandas. This dataset contains a wealth of movie ratings.
 
@@ -57,6 +59,7 @@ Step 8: Testing New Ratings 📤
 Test the system by inputting new ratings from users and watch it deliver fresh movie suggestions tailored to their evolving tastes.
 
 **Project 3: Credit Card Fraud Detection**
+
 📊 Dataset: I loaded the Credit Card Fraud Detection dataset using Pandas, setting the stage for some data magic.
 
 🛠️ Data Pre-processing: I performed some data wizardry, scaling the features and ensuring that missing values and outliers were properly managed. Clean data, ready for action!
